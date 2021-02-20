@@ -1,0 +1,13 @@
+D:\Dev\C#\Radio\Radio\bin\Debug\Radio.exe.config
+D:\Dev\C#\Radio\Radio\bin\Debug\Radio.exe
+D:\Dev\C#\Radio\Radio\bin\Debug\Radio.pdb
+D:\Dev\C#\Radio\Radio\obj\Debug\Radio.csprojAssemblyReference.cache
+D:\Dev\C#\Radio\Radio\obj\Debug\Radio.Form1.resources
+D:\Dev\C#\Radio\Radio\obj\Debug\Radio.Properties.Resources.resources
+D:\Dev\C#\Radio\Radio\obj\Debug\Radio.csproj.GenerateResource.cache
+D:\Dev\C#\Radio\Radio\obj\Debug\Radio.csproj.CoreCompileInputs.cache
+D:\Dev\C#\Radio\Radio\obj\Debug\Radio.exe
+D:\Dev\C#\Radio\Radio\obj\Debug\Radio.pdb
+D:\Dev\C#\Radio\Radio\obj\Debug\Radio.FormCadastroAluno.resources
+D:\Dev\C#\Radio\Radio\obj\Debug\Radio.CadastroPrograma.resources
+D:\Dev\C#\Radio\Radio\obj\Debug\Radio.Rádio.resources

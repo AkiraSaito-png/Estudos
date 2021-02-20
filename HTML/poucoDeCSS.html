@@ -1,0 +1,52 @@
+<html>
+    <head>
+        <title>Um Pouco de CSS</title>
+        <style>
+            h1, samp{
+                display: nome;
+                background-color: red;
+                position: absolute;
+                top: 400px;
+                left: 400px;
+                font-size: 20px;
+            }
+            .fundoVermelho{
+                background-color: red;
+            }
+            .negrito{
+                font-weight: bold;
+            }
+            #textoPrincipal{
+                font-size: 40px;
+                font-weight: bold;
+                color: violet;
+                background-color: yellow;
+                padding: 20px;
+                margin-bottom: 10px;
+            }
+        </style>
+    </head>
+    <body>
+        <h1>CSS</h1>
+        <span id="textoPrincipal">Texto 1</span><br>
+        <span class="fundoVermelho negrito">Texto 2</span><br>
+        <span class="fundoVermelho">Texto 3</span>
+        <nav>
+            <a href="index.html">melhor link de todos</a>
+        </nav>
+        <section id="conteudo"></section>
+        <script>
+            document.querySelectorAll('a').forEach(link => {
+            const conteudo = document.getElementById('conteudo')
+
+            link.onclick = function(e) {
+                e.preventDefault()
+                console.log('funciona')
+                fetch(link.href)
+                    .then(resp => resp.text())
+                    .then(html => conteudo.innerHTML = html)
+                }
+            })
+        </script>
+    </body>
+</html>
