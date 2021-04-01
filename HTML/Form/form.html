@@ -1,7 +1,35 @@
 <h1>Formilario</h1>
 
-<form action="http://localhost:3030/usuarios" method="POST">
-    <input type="text" name="name">
-    <button>Incluir</button>
+<form method="POST">
+    <input type="hidden" name="id" value="3"> 
+    <input type="text" name="name"> 
+    <input type="password" name="senha"> 
+    <textarea name="bio" cols="30" rows="10"></textarea>
+    <div>
+        <input type="radio" name="tipo"> Admin
+        <input type="radio" name="tipo"> Regular
+        <input type="radio" name="tipo"> Professor
+    </div>
+    <div>
+        <input type="checkbox" name="ativo"> Ativo
+    </div>
+    <select name="estado">
+        <option value="ac">acre</option>        
+        <option value="ba">bahia</option>        
+    </select>
+    
+    <button formaction="http://localhost:3003/usuarios">Incluir</button>
+    <button formaction="http://localhost:3003/usuarios/3">Alterar</button>
+
 
 </form>
+
+<style>
+    input,
+    textarea,
+    select{
+        display: block;
+        margin-bottom: 10px;
+    }
+
+</style>

@@ -1,0 +1,9 @@
+D:\Dev\Git\Estudos\C#\Radio\Business\bin\Debug\Business.dll
+D:\Dev\Git\Estudos\C#\Radio\Business\bin\Debug\Business.pdb
+D:\Dev\Git\Estudos\C#\Radio\Business\bin\Debug\Database.dll
+D:\Dev\Git\Estudos\C#\Radio\Business\bin\Debug\Database.pdb
+D:\Dev\Git\Estudos\C#\Radio\Business\obj\Debug\Business.csprojAssemblyReference.cache
+D:\Dev\Git\Estudos\C#\Radio\Business\obj\Debug\Business.csproj.CoreCompileInputs.cache
+D:\Dev\Git\Estudos\C#\Radio\Business\obj\Debug\Business.csproj.CopyComplete
+D:\Dev\Git\Estudos\C#\Radio\Business\obj\Debug\Business.dll
+D:\Dev\Git\Estudos\C#\Radio\Business\obj\Debug\Business.pdb

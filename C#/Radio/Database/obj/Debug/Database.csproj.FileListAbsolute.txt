@@ -1,0 +1,5 @@
+D:\Dev\Git\Estudos\C#\Radio\Database\bin\Debug\Database.dll
+D:\Dev\Git\Estudos\C#\Radio\Database\bin\Debug\Database.pdb
+D:\Dev\Git\Estudos\C#\Radio\Database\obj\Debug\Database.csproj.CoreCompileInputs.cache
+D:\Dev\Git\Estudos\C#\Radio\Database\obj\Debug\Database.dll
+D:\Dev\Git\Estudos\C#\Radio\Database\obj\Debug\Database.pdb

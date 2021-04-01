@@ -1,0 +1,10 @@
+D:\Dev\Git\Estudos\C#\Radio\Radio\obj\Debug\UI.csprojAssemblyReference.cache
+D:\Dev\Git\Estudos\C#\Radio\Radio\obj\Debug\Radio.FormCadastroAluno.resources
+D:\Dev\Git\Estudos\C#\Radio\Radio\obj\Debug\Radio.CadastroPrograma.resources
+D:\Dev\Git\Estudos\C#\Radio\Radio\obj\Debug\Radio.Form1.resources
+D:\Dev\Git\Estudos\C#\Radio\Radio\obj\Debug\Radio.Rádio.resources
+D:\Dev\Git\Estudos\C#\Radio\Radio\obj\Debug\Radio.Properties.Resources.resources
+D:\Dev\Git\Estudos\C#\Radio\Radio\obj\Debug\UI.csproj.GenerateResource.cache
+D:\Dev\Git\Estudos\C#\Radio\Radio\obj\Debug\UI.csproj.CoreCompileInputs.cache
+D:\Dev\Git\Estudos\C#\Radio\Radio\obj\Debug\Radio.exe
+D:\Dev\Git\Estudos\C#\Radio\Radio\obj\Debug\Radio.pdb

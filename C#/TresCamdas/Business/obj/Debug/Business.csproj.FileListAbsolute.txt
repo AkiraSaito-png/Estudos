@@ -1,0 +1,6 @@
+D:\Dev\Git\Estudos\C#\TresCamdas\Business\bin\Debug\Business.dll
+D:\Dev\Git\Estudos\C#\TresCamdas\Business\bin\Debug\Business.pdb
+D:\Dev\Git\Estudos\C#\TresCamdas\Business\obj\Debug\Business.csproj.CoreCompileInputs.cache
+D:\Dev\Git\Estudos\C#\TresCamdas\Business\obj\Debug\Business.dll
+D:\Dev\Git\Estudos\C#\TresCamdas\Business\obj\Debug\Business.pdb
+D:\Dev\Git\Estudos\C#\TresCamdas\Business\obj\Debug\Business.csprojAssemblyReference.cache

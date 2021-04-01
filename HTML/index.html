@@ -14,7 +14,14 @@
     <h1>
         kkkkkkkkkkkkkkkk
     </h1>
-    <a href="Form/form.html">teste</a>
+
+    <a href="Form/form.html">Teste</a>|
+    <a href="Form/video.html">Video</a>|
+
+    <section id="conteudo">
+        
+    </section>
+
     <h2>
         rindo do Thiagol<br><br>
         o Kauet é massa <br>
@@ -44,5 +51,23 @@
     <footer>
         Ródapenis
     </footer>
+
+
+    
+
+    <script>
+        document.querySelectorAll('a').forEach(link => {
+           const conteudo = document.getElementById('conteudo')
+
+           link.onclick = function(e) {
+               e.preventDefault()
+               console.log('funciona')
+               fetch(link.href)
+                   .then(resp => resp.text())
+                   .then(html => conteudo.innerHTML = html)
+           }
+       })
+   </script>
+
 </body>
 </html>

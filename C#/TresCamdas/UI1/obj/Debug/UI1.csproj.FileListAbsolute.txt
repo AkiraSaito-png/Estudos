@@ -1,0 +1,2 @@
+D:\Dev\Git\Estudos\C#\TresCamdas\UI1\obj\Debug\UI1.csprojAssemblyReference.cache
+D:\Dev\Git\Estudos\C#\TresCamdas\UI1\obj\Debug\UI1.csproj.GenerateResource.cache
